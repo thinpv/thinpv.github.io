@@ -2,7 +2,9 @@
 ### Install
 #### step1. 
 Choose Preferences in the File menu and enter the copied code in Additional Board Manager URLs part. Then press OK.
+```
 https://raw.githubusercontent.com/thinpv/viduino/master/package_viduino_index.json
+```
 
 #### Step2. 
 Search the word viduino in Boards>boards manager from Tools menu. Then install viduino boards. After complete installation, you will see the INSTALLED label on viduino boards.
