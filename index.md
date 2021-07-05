@@ -11,7 +11,8 @@ Search the word Viduino in Boards>boards manager from Tools menu. Then install V
 
 After these two steps, you can see Viduino Uno based boards such as Viduino Uno in your Arduino IDE boards list, and you can choose your desired board to upload the code.
 
-
+#
+#
 
 # Viduino Uno with Linux
 ### Uboot
