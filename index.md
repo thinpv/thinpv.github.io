@@ -1,4 +1,4 @@
-![Alt text](images/viduino-uno-module-01.jpg)
+![Viduino](images/viduino-uno-module-01.jpg)
 
 ## Viduino Uno with Linux
 ### Uboot
