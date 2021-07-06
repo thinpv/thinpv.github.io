@@ -1,5 +1,8 @@
 ![Viduino](images/viduino-uno-module-01.jpg)
 
+## Facebook group
+[Viduino](https://www.facebook.com/groups/viduinovn)
+
 ## Viduino Uno with Linux
 ### Uboot
 [Build uboot](https://thinpv.github.io/uboot)
