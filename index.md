@@ -10,7 +10,7 @@
 
 [Build buildroot](https://thinpv.github.io/buildroot)
 
-[Build LVGL example](https://thinpv.github.io/viduino-uno-linux-example)
+[Build LVGL example](https://thinpv.github.io/lv_port_linux_frame_buffer)
 
 ## Viduino Uno with Arduino
 [Install with Arduino IDE](https://thinpv.github.io/viduino)
